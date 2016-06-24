@@ -1,2 +1,2 @@
 # CourseraFPPS
-Repositorio para el curso "Funcional Programming Principles in Scala" de Coursera
+Repositorio para el curso "Functional Programming Principles in Scala" de Coursera
